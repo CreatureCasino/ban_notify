@@ -1,6 +1,0 @@
-{
-    "name": "ban_notify",
-    "version": "1.0.0",
-    "description": "Sends a DM with a hosted MP4 when a user is banned",
-    "author": "CreatureCasino"
-}
